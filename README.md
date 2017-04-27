@@ -1,7 +1,5 @@
 ## Curriculum
-| **NAME** |
-|----------|
-|Henrique Lima Velardo|
-| **Country** |
-|-------------|
-|Brazil|
+| **NAME** | **Country** |
+|------------------------|
+|Henrique Lima Velardo | Brazil |
+
