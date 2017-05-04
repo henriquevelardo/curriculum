@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding:0;
+    border:0;
+}
+
+a:link{
+    color:#000;
+    text-decoration: none;
+}
+
+a:visited {
+    color:#027;
+
+}
+
+
+ul {
+    list-style: none;
+    text-align: center;
+    margin-top: 200px;
+}
+
+ul li {
+    font-family: Arial;
+    font-size: 20px;
+}
